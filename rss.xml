@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nils Opie]]></title>
+        <description><![CDATA[Nils Opie]]></description>
+        <link>https://thegrid.ai/nils-opie/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 09:08:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nils-opie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/230c2f82-2038-4de0-af88-8f3bc91e4af3.jpg">]]></description>
+            <link>https://thegrid.ai/nils-opie/170b53a7-f8f0-4a31-9b91-5d05ac2abc7f/index.html</link>
+            <guid isPermaLink="false">170b53a7-f8f0-4a31-9b91-5d05ac2abc7f</guid>
+            <pubDate>Sun, 10 Apr 2016 09:08:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80edd1a-8a50-494c-a44a-c981c557873c.jpg">]]></description>
+            <link>https://thegrid.ai/nils-opie/80c35988-ed48-42ec-ac5f-1972762afd4b/index.html</link>
+            <guid isPermaLink="false">80c35988-ed48-42ec-ac5f-1972762afd4b</guid>
+            <pubDate>Sun, 10 Apr 2016 08:59:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
