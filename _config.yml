@@ -1,6 +1,6 @@
 name: Nils Opie
 favicon: null
-layout_spectrum: 0.24316
+layout_spectrum: 0.25098
 typography_spectrum: 0.25098
 title: Nils Opie
 cta:
@@ -22,7 +22,7 @@ color:
     - '#fff9e9'
     - '#31460d'
     - '#85a714'
-  brandStrength: 0.8125
+  brandStrength: 0.25
   lightness: 0.4546580142341554
   saturation: 0.42338196840137243
   rhythmicContrast: 0.49270454864017665
