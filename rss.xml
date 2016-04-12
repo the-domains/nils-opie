@@ -4,7 +4,7 @@
         <description><![CDATA[Nils Opie]]></description>
         <link>https://thegrid.ai/nils-opie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 07:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 07:49:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nils-opie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nils is 2!]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/nils-opie/80c35988-ed48-42ec-ac5f-1972762afd4b/index.html</link>
             <guid isPermaLink="false">80c35988-ed48-42ec-ac5f-1972762afd4b</guid>
             <pubDate>Tue, 12 Apr 2016 07:35:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Science Museum London]]></title>
-            <description><![CDATA[<article><h1>Science Museum London</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a30b525fdcd809cb3af97b7a0fcfa33002ccfd28.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nils-opie/170b53a7-f8f0-4a31-9b91-5d05ac2abc7f/index.html</link>
-            <guid isPermaLink="false">170b53a7-f8f0-4a31-9b91-5d05ac2abc7f</guid>
-            <pubDate>Tue, 12 Apr 2016 07:11:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
